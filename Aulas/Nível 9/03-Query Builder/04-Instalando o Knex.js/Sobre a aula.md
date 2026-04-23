@@ -1,0 +1,1 @@
+Instalamos a lib do knex, se tratando ai de um query builder, além também do BDE sqlite na versão utilizada no curso. 

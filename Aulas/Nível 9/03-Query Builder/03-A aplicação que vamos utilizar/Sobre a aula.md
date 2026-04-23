@@ -1,0 +1,1 @@
+Instalando projeto fornecido para adiantar a criação e desenvolvimento. O mesmo se trata de uma API pronta.
