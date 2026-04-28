@@ -1,0 +1,1 @@
+Criamos um arquivo para centralizar as configurações do bde nele,e trabalhamos com

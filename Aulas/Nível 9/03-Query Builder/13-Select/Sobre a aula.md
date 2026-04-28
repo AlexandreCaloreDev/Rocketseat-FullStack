@@ -1,0 +1,1 @@
+Criamos o método PUT na api para pdoer atualizar o nome.

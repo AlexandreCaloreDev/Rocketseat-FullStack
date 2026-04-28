@@ -1,0 +1,1 @@
+Criamos as configurações padrões do kknex, setando sua conexão, arquivo de bde e tipo de bde, bem como sua migration e diretório da migration

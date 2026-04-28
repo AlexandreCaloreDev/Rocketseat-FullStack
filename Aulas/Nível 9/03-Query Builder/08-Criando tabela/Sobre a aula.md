@@ -1,0 +1,1 @@
+Criamos nossa primeira tabela por meio de migraton

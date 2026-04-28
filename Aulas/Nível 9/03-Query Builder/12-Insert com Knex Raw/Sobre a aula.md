@@ -1,0 +1,1 @@
+Executando e excrevendo script SQL via método.

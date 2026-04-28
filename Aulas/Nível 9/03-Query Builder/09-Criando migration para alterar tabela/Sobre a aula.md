@@ -1,0 +1,1 @@
+Alterando package.json, colocando script para rodar knex e criando a primeira migration.

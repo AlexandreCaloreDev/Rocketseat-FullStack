@@ -1,0 +1,1 @@
+usando o método npm run knex -- migrate:down, você volta a versão anterior. Ou então usar o rollback para voltar a ultima versão
