@@ -1,0 +1,11 @@
+{
+  "name": "02-criando-o-projeto",
+  "version": "1.0.0",
+  "description": "API para gerenciar pedidos das mesas de um restaurante",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "caloredev",
+  "license": "ISC",
+  "type": "commonjs"
+}

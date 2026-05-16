@@ -1,0 +1,1 @@
+Criamos uma rota para permitir fazer um select em alguma tabela com join, filtrando os dados que serão exibidos.
