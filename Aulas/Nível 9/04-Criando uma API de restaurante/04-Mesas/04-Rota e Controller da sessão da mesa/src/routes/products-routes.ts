@@ -1,0 +1,12 @@
+import { ProductController } from "@/controllers/products-controller"
+import { TablesController } from "@/controllers/tables-controller";
+import {Router} from "express"
+
+const productsRoutes = Router()
+const productController = new ProductController
+
+productsRoutes.get("/", productController.index)
+productsRoutes.post("/", productController.create)
+productsRoutes.put("/:id", productController.update)
+productsRoutes.put("/:id", productController.remove)
+export {productsRoutes}

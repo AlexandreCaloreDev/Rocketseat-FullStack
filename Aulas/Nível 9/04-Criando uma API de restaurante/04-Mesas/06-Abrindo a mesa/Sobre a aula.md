@@ -1,0 +1,1 @@
+Adaptei o index para listar produtos com filtro através do queryparams se assim desejado.
